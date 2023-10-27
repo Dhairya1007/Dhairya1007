@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dhairya Parikh</h1>
-<h3 align="center"> AI/ML Enthusiast | Innovative Data Engineer | Award-Winning IoT Innovator | Published Technical Writer | Committed to Advancing Technology and Converging Data Engineering with Cutting-Edge Solutions.</h3>
+<h3 align="center"> AI/ML Enthusiast | Innovative Data Engineer | Award-Winning IoT Innovator | Published Technical Writer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhairya1007&label=Profile%20views&color=0e75b6&style=flat" alt="dhairya1007" /> </p>
 
