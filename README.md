@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Dhairya Parikh</h1>
-<h3 align="center">Innovative Data Engineer and AI/ML Enthusiast | Award-Winning IoT Innovator | Published Technical Writer | Committed to Advancing Technology and Converging Data Engineering with Cutting-Edge Solutions.</h3>
+<h3 align="center"> AI/ML Enthusiast | Innovative Data Engineer | Award-Winning IoT Innovator | Published Technical Writer | Committed to Advancing Technology and Converging Data Engineering with Cutting-Edge Solutions.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhairya1007&label=Profile%20views&color=0e75b6&style=flat" alt="dhairya1007" /> </p>
 
-- 🌱 I’m currently learning **Kubernetes and AWS**
+- 🌱 I’m currently exploring and learning about **Langchain and LLMs**
 
 - 👨‍💻 All of my projects are available at [https://dhairya-parikh.netlify.app](https://dhairya-parikh.netlify.app)
 
 - 📝 I regularly write articles on [https://medium.com/@dhairyaparikh67](https://medium.com/@dhairyaparikh67)
 
-- 💬 Ask me about **Python, Raspberry Pi and AWS**
+- 💬 Ask me about **Kubernetes, Python, Raspberry Pi and AWS**
 
 - 📫 How to reach me **dhairyaparikh1998@gmail.com**
 
