@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **dhairyaparikh1998@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1hegYkHW_95lYJC_REVXzQf9AzgIBKzzM/view](https://drive.google.com/file/d/1hegYkHW_95lYJC_REVXzQf9AzgIBKzzM/view)
+- 📄 Know about my experiences [Latest Resume](https://drive.google.com/file/d/1h1AbL5UagOO3wEFkvSxWkr59HANTJdK5/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
