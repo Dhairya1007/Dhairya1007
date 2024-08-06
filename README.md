@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Kubernetes, Python, Raspberry Pi and AWS**
 
-- 📫 How to reach me **dhairyaparikh1998@gmail.com**
+- 📫 How to reach me **d25parik@uwaterloo.ca**
 
 - 📄 Know about my experiences [Latest Resume](https://drive.google.com/file/d/1h1AbL5UagOO3wEFkvSxWkr59HANTJdK5/view)
 
