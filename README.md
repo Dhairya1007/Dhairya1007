@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **d25parik@uwaterloo.ca**
 
-- 📄 Know about my experiences [Latest Resume](https://drive.google.com/file/d/1h1AbL5UagOO3wEFkvSxWkr59HANTJdK5/view)
+- 📄 Know about my experiences [Latest Resume](https://drive.google.com/file/d/1dgOfMS5wN6Et_Tr-Y5-jI2PirOegbLQC/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
