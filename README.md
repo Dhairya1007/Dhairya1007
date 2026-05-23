@@ -15,7 +15,6 @@ I'm a **Lead AI and Data Engineer at NxtGen Analytics**, where I design and buil
 - 🔭 Currently building robust data pipelines and ML-ready infrastructure at **NxtGen Analytics**
 - 🤖 Deep-diving into **LLMs, LangChain, and AI-powered data systems**
 - ✍️ Technical articles on [Medium](https://medium.com/@dhairyaparikh67)
-- 🌐 Portfolio: [dhairya-parikh.netlify.app](https://dhairya-parikh.netlify.app)
 - 📬 Reach me at: **dhairyaparikh1998@gmail.com**
 ---
 
